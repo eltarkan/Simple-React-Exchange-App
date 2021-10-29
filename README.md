@@ -1,8 +1,8 @@
 # HELLO MUBI
 
 ### Fake Email Cred for exchangerate-api.com
-mail: forban@dikitin.com
+mail: forban@mobitivisao.com
 
-password: forban@dikitin.com
+password: forban@mobitivisao.com
 
-api-key: bbd8194d5b6706dddb21df3e
+api-key: 6ecb72aed4f6ed09c839633a
